@@ -1,0 +1,7 @@
+(*Kısıtlama olarak yorum kısımları hariç satır sonlarında endOfFile olmalıdır. 
+Sebebi de karakter karakter okumamız. Alt satıra satır sonu yapmadan geçilirse 
+ard arda gelen stringleri tek bir büyük string olarak algılayacaktır.*)
+hi:=hello+25;WHile; (*addition *)
+(*Bu bir yorum satiridir*)
+hello++;12345678901for; (*increment*)
+printf("Bugun cok guzel bir gun")123;

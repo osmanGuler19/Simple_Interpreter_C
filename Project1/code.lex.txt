@@ -1,0 +1,20 @@
+Identifier Token : HI
+Operator Token : := 
+Identifier Token : HELLO
+Operator Token : + 
+Integer Token : 25
+EndOfLine 
+Keyword Token : while
+EndOfLine 
+Identifier Token : HELLO
+Operator Token : ++ 
+EndOfLine 
+Integer Token : Desteklenmeyen basamak sayisi
+Keyword Token : for
+EndOfLine 
+Identifier Token : PRINTF
+Bracket Token : LeftPar 
+String Constant : Bugun cok guzel bir gun
+Bracket Token : RightPar 
+Integer Token : 123
+EndOfLine 
